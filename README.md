@@ -2,7 +2,7 @@
 
 ####  By Christopher Davila
 
-#### Application to create a story with input from the user  
+### Application to create a story with input from the user  
 
 ### Technologies Used
 
